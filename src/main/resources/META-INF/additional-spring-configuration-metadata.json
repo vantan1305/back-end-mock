@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "oauth2",
+      "type": "java.lang.String",
+      "description": "Description for oauth2."
+    },
+    {
+      "name": "oauth2",
+      "type": "java.lang.String",
+      "description": "Description for oauth2."
+    },
+    {
+      "name": "http",
+      "type": "java.lang.String",
+      "description": "Description for http."
+    }
+  ] }
